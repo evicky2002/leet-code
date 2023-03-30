@@ -1,8 +1,3 @@
-
-import java.util.Arrays;
-import java.util.StringTokenizer;
-import java.util.regex.Pattern;
-
 public class DefangingIPAddress {
     public String defangIPaddr(String address) {
         StringBuffer stringBuffer = new StringBuffer();
